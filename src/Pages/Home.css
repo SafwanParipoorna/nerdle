@@ -1,0 +1,9 @@
+
+.active button{
+    background-color: aqua;
+}
+
+.inactive button{
+    background-color: rgba(24, 141, 141, 0.329);
+
+}
